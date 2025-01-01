@@ -16,10 +16,10 @@
     "url": "https://github.com/AhmedAWM/U02-W02-D02-intro-to-mongoose-lab/issues"
   },
   "homepage": "https://github.com/AhmedAWM/U02-W02-D02-intro-to-mongoose-lab#readme",
-  "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
     "mongoose": "^8.9.3",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "description": ""
 }
